@@ -5,7 +5,7 @@
 	<title>Matthew David ProDev Doc</title>
 	</head>
 	<body>
-		<h1>Matthew David Professional Developement</h1>
+		<h1>Matthew David Professional Development</h1>
 
 		<p><strong>Last Updated:</strong> 10/15/17</p>
 		<p><strong>Coding Buddy:</strong> Neena</p>
@@ -14,6 +14,8 @@
 		<ul>
 			<li><a href="https://github.com/mdavid50">GitHub</a></li>
 		</ul>
+
+		<br/>
 		<h2>Homework Activities</h2>
 			<h3>My Learning Styles</h3>
 			<p><strong>Visual</strong></p>
@@ -38,7 +40,7 @@
 			<h3>Golden Circle</h3>
 			<ul>
 				<li><strong>Why:</strong> To live where I want, how I want.</li>
-				<li><strong>How:</strong> Become a compeent coder with a strong and broad foundationt</li>
+				<li><strong>How:</strong> Become a competent coder with a strong and broad foundation</li>
 				<li><strong>What:</strong> Learn how to work with a team effectively so that I will be a confident
 					remote employee.</li>
 			</ul>
@@ -48,6 +50,7 @@
 			be a confident remote employee. I'm building a solid coding foundation with good habits to be a
 			valued developer. Does your company believe in growth from within?</p>
 
+		<br/>
 		<h2>Reflections</h2>
 
 			<h3>Week 1</h3>
