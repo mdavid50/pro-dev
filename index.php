@@ -32,7 +32,7 @@
 		<ul>
 			<li>Deeply dedicated to accomplishing goals.</li>
 			<li>Confident and skilled communicator.</li>
-			<li>Very Capeable Learner</li>
+			<li>Very Capable Learner</li>
 		</ul>
 
 			<h3>Golden Circle</h3>
