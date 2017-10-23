@@ -13,7 +13,7 @@
         <img src="resume/getting-ready.jpg" width="380" height="450"
              alt="Photo of Matthew David">
 <br>
-        <a href="resume/resume.pdf">Resume</a>
+        <a href="resume/resume.pdf">My Resume</a>
 
 		<h2>My Links</h2>
 		<ul>
