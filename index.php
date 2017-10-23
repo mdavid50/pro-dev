@@ -72,5 +72,8 @@
 			adventure. It is the most pleasant way I have spent a normal work day I can remember. I'm excited to see
 			what is to come.</p>
 
+            <h3>Week 2</h3>
+            <p>Well here I am still making things happen. I don't always know what I'm doind or why I'm doing it but it seems I'm accomplishing assignments and </p>
+
 	</body>
 </html>
