@@ -7,12 +7,13 @@
 	<body>
 		<h1>Matthew David Professional Development</h1>
 
-		<p><strong>Last Updated:</strong> 10/15/17</p>
+		<p><strong>Last Updated:</strong> 10/23/17</p>
 		<p><strong>Coding Buddy:</strong> Neena</p>
 
 		<h2>My Links</h2>
 		<ul>
 			<li><a href="https://github.com/mdavid50">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/matthew-david-8b7079152/" </li>
 		</ul>
 
 		<br/>
