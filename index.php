@@ -15,7 +15,7 @@
 		<h2>My Links</h2>
 		<ul>
 			<li><a href="https://github.com/mdavid50">GitHub</a></li>
-            <li><a href="https://www.linkedin.com/in/matthew-david-8b7079152/" </li>
+            <li><a href="https://www.linkedin.com/in/matthew-david-8b7079152/">Linkedin</a> </li>
 		</ul>
 
 		<br/>
