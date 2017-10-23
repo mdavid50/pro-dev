@@ -73,7 +73,10 @@
 			what is to come.</p>
 
             <h3>Week 2</h3>
-            <p>Well here I am still making things happen. I don't always know what I'm doind or why I'm doing it but it seems I'm accomplishing assignments and </p>
+            <p>Well here I am still making things happen. I don't always know what I'm doind or why I'm doing it but it seems I'm accomplishing assignments. My original prediction of having to work harder than most to get things done is holding true. I even shot myself in the foot by not knowing where to stop during the data design project. an extra 200 lines of code and an hour of attempting to figure out how to apply the knowledge from he first page to the two remaining. What a way to spend a Saturday!! Its great knowing that I won't be one of those who are following the usual "learning how to code" curve. I started knowing that I didn't know anything about coding so its kind of hard to go any lower than rock bottom. It already actually feels like I'm on the up slope of the curve if anything because the more I listen, attempt, and accomplish the more confident I'm becoming. I really enjoy being able to get involved in the coding part. I am aware that we aren't even doing anything fun yet and I'm already excited to awke up and get to the keyboard. I"m still excited to see what is to come</p>
+
+            <h3>Matthew J David Search</h3>
+            <p>Well it took me almost no time at all to find that I have extremely little presence online. On Whitepages it even gives a range for me age. To me thats funny. As far as my future, I think its good and bad. I have a clean slate to make what ever type of presence I would like. On the other hand I have a blank slate, no history, no experience. I will have to make a greater effort to have a positive presence that stands out.</p>
 
 	</body>
 </html>
