@@ -10,6 +10,8 @@
 		<p><strong>Last Updated:</strong> 10/23/17</p>
 		<p><strong>Coding Buddy:</strong> Neena</p>
 
+        <a href="resume/resume.pdf">Resume</a>
+
 		<h2>My Links</h2>
 		<ul>
 			<li><a href="https://github.com/mdavid50">GitHub</a></li>
