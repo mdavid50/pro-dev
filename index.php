@@ -89,7 +89,7 @@
                 bottom. It already actually feels like I'm on the up slope of the curve if anything because the more I
                 listen, attempt, and accomplish the more confident I'm becoming. I really enjoy being able to get
                 involved in the coding part. I am aware that we aren't even doing anything fun yet and I'm already
-                excited to wake up and get to the keyboard. I"m still excited to see what is to come</p>
+                excited to wake up and get to the keyboard. I'm still excited to see what is to come</p>
 
             <h3>Matthew J David Search</h3>
             <p>Well it took me almost no time at all to find that I have extremely little presence online. On
