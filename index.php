@@ -52,9 +52,10 @@
 			</ul>
 
 			<h3>Elevator Pitch</h3>
-			<p> Hi my name is Matt David. I am learning to be an effective development team member so I can
-			be a confident remote employee. I'm building a solid coding foundation with good habits to be a
-			valued developer. Does your company believe in growth from within?</p>
+			<p> Hi my name is Matt David. I am growing my coding and team development skills to combine my
+                Electrical licence because of my interest in electronics and device programmer. I'm building a solid
+                coding foundation with good habits to be a valued developer. Does your company program electronics
+                and devices?</p>
 
 		<br/>
 		<h2>Reflections</h2>
@@ -97,6 +98,20 @@
                 and bad. I have a clean slate to make what ever type of presence I would like. On the other hand I have
                 a blank slate, no history, no experience. I will have to make a greater effort to have a positive
                 presence that stands out.</p>
+
+            <h3>Week 3</h3>
+            <p>Ok so its a little early to tell yet and I'm not ready to admit that I may enjoy front end much better
+            than back end. Maybe its the approach we have taken. Maybe I wasn't paying attention. I feel much more
+            comfortable when I can write some code and see an immediate result. This pleases me, lol. I'm going to
+            try to have as much hand in data design in the capstone as to understand it better, but for now css and
+            front end works well for me.</p>
+
+            <h3>Market Initiative</h3>
+            <p>So I took a few different initiatives this weekend. I decided to take the direct approach. I know
+            multiple business owners. It ranges from one man operations to multi location incs. I asked directly to
+            a few of these businesses. I was much more successful with small business as far as engaging
+            conversation goes. They were much more receptive to the idea of me creating an online presence. Larger
+            business, with established </p>
 
 	</body>
 </html>
