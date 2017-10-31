@@ -7,7 +7,7 @@
 	<body>
 		<h1>Matthew David Professional Development</h1>
 
-		<p><strong>Last Updated:</strong> 10/23/17</p>
+		<p><strong>Last Updated:</strong> 10/31/17</p>
 		<p><strong>Coding Buddy:</strong> Neena</p>
 
         <img src="resume/getting-ready.jpg" width="380" height="450"
