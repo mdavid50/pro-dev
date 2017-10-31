@@ -111,7 +111,16 @@
             multiple business owners. It ranges from one man operations to multi location incs. I asked directly to
             a few of these businesses. I was much more successful with small business as far as engaging
             conversation goes. They were much more receptive to the idea of me creating an online presence. Larger
-            business, with established </p>
+            business, with established web presence was not so receptive to having someone with my limited skillset
+            work on their page.</p>
+            <p>So the indirect approach I took was easy but not terribly successful. I overheard a conversation
+            between two people about needing some sort of web presence. They didn't have much to spend and couldn't
+            find someone willing to do the work for an affordable price. I simply walked by when I picked up my food
+            and said, "I develop websites for small business if you are interested." I just walked away after, went and
+            sat down with my food and they happily picked up their food and moved to my table as if I had invited them
+            to a business meeting. The ideas that came from the talk that followed led to an exchange of information
+            so they can contact me at a time that they wanted to tackle the project. Thank goodness because I totally
+            couldn't fulfill the objectives that I proposed yet. I will, but not yet.</p>
 
 	</body>
 </html>
