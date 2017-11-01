@@ -122,5 +122,37 @@
             so they can contact me at a time that they wanted to tackle the project. Thank goodness because I totally
             couldn't fulfill the objectives that I proposed yet. I will, but not yet.</p>
 
+            <h3>Team Game Reflection</h3>
+                <h4>Zach</h4>
+            <p>weakness- I think Zach only has one weakness. It can be taken two ways. It could be that he
+            lacks confidence in his own opinion. I suspect more it is that he doesn't want to hurt anyones
+            feelings and wants everyone to feel important.</p>
+            <p>Strengths- I think Zach is a great analytical thinker. He is very strategic with his responses
+            and opinions. I feel like Zach is intelligent and a strong team player. I'm thankful for Zach to be on the
+            team.</p>
+
+                <h4>Luther</h4>
+            <p>Weaknesses- probably communication. I think Luther has to work a little harder than some at explaining
+            whats in his head</p>
+            <p>Strength- his creativity and foresight! I really like his ideas and how he plans for the future. I am
+            thankful to have Luther on the team</p>
+
+                <h4>Chris</h4>
+            <p>Weakness- inexperience, attention to detail, confidence.</p>
+            <p>Strengths- creativity and communication. Awesome ideas. Doesn't have limits on his dreams. Really good
+            at communication whats in his head. Im happy to have Chris on the team</p>
+
+                <h4>Me</h4>
+            <p>Weaknesses- patience, close minded, tunnel vision</p>
+            <p>Strengths- logic, communication (sometimes overly so)</p>
+
+                <h4>Reflection</h4>
+            <p>I think our team is fairly complimentary to each other. As far as our differences go, everyone seems open
+            minded enough to be able to overcome most obstacles. I felt like everyone was trying to play fair and
+            for the success of the team. Nobody argued. Nobody cut corners. We even overcame an outside obstacle. We
+            had a visitor that desperately wanted to be part of our decision making process and wasn't following the
+            rules. Our team politely addressed him and his comments and continued to make our best calibrated moves.
+            We were not successful in making it off the island but it was still fun.</p>
+
 	</body>
 </html>
