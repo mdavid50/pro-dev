@@ -7,7 +7,7 @@
 	<body>
 		<h1>Matthew David Professional Development</h1>
 
-		<p><strong>Last Updated:</strong> 11/3/17</p>
+		<p><strong>Last Updated:</strong> 11/6/17</p>
 		<p><strong>Coding Buddy:</strong> Neena</p>
 
         <img src="resume/getting-ready.jpg" width="380" height="450"
@@ -105,6 +105,19 @@
             comfortable when I can write some code and see an immediate result. This pleases me, lol. I'm going to
             try to have as much hand in data design in the capstone as to understand it better, but for now css and
             front end works well for me.</p>
+
+            <h3>Week 4</h3>
+            <p>Two weeks in a row are proving that I am much more proficient with code when I see what it does!
+            I really enjoy being able to write code and see what happens. I hope that we are shown how a database
+            reacts and how some of the back end really functions. I'm slightly frustrated that we have built an immaginary
+            database that I can't see or put information into so see how it works. I'm super excited that we have started
+            on a capstone project. I feel really good that our team is going to tackle something a little more original
+            than a netflix app. I'm still reaching out to new contacts and seeing what is actually available to me after
+            this class. I'm feeling more comfortable in this class. I'm feeling more comfortable with familiarity
+            of working on a computer. I don't have to strain my eyes so much at the screen. I feel more exercised in
+            my brain than my body for the first time in over 10 years. Its amazing how good it can make you feel
+            to accomplish a new task or goal, no matter how menial. Now I'm feeling more confidant that my original
+            desire of making a place for my self in this world holds water. I can do this. I will do this.</p>
 
             <h3>Market Initiative</h3>
             <p>So I took a few different initiatives this weekend. I decided to take the direct approach. I know
